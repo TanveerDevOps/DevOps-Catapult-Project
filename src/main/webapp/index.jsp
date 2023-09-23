@@ -1,5 +1,9 @@
 <html>
 <body>
-<h2>Hello World Tanveer!</h2>
+<p id="date"></p>
+<script>
+document.getElementById("date").innerHTML = Date();
+</script>
+<h2>This is DevOps Catapult project</h2>
 </body>
 </html>
